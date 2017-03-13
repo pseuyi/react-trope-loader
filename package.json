@@ -1,10 +1,13 @@
 {
   "name": "react-trope-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/pseuyi/react-trope-loader"
+  },
+  "bugs": {
+    "url": "https://github.com/pseuyi/react-trope-loader/issues"
   },
   "license": "MIT",
   "options": {
